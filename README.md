@@ -36,4 +36,5 @@ To empower meme creators by providing a platform that ensures ownership and valu
 ---
 
 Feel free to adapt the contract and README to align with your exact requirements or extend its functionality further. If you need assistance, let me know!
-## contract address 0xCc9C05250BECb5FfeA6408B9a347F60AeE44B570
+## contract address 
+0xCc9C05250BECb5FfeA6408B9a347F60AeE44B570
